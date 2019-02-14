@@ -114,7 +114,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\r\n<app-menu></app-menu>\r\n<h1 class=\"site-heading text-center text-white d-none d-lg-block\">\r\n        <span class=\"site-heading-upper text-dark mb-3\">A community based parking application</span>\r\n        <span class=\"site-heading-lower text-dark\"><img src=\"/./src/assets/images/Spotbacklogo.png\" width=\"20%\"></span>\r\n      </h1>\r\n<!-- <router-outlet class=\"background-image\"></router-outlet> -->\r\n<div >\r\n    <router-outlet></router-outlet>\r\n</div>\r\n"
+module.exports = "\r\n<app-menu></app-menu>\r\n<h1 class=\"site-heading text-center text-white d-none d-lg-block\">\r\n        <span class=\"site-heading-upper text-dark mb-3\">A community based parking application</span>\r\n        <span class=\"site-heading-lower text-dark\"><img src=\"./../../../assets/images/Spotbacklogo.png\" width=\"20%\"></span>\r\n      </h1>\r\n<!-- <router-outlet class=\"background-image\"></router-outlet> -->\r\n<div >\r\n    <router-outlet></router-outlet>\r\n</div>\r\n"
 
 /***/ }),
 
