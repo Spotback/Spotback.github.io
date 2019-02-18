@@ -284,7 +284,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<section class=\"page-section about-heading\">\r\n  <div class=\"container\">\r\n      <img class=\"img-fluid rounded about-heading-img mb-3 mb-lg-0\" src=\"../../../assets/images/lookingPark.jpg\" alt=\"\">\r\n      <div class=\"about-heading-content\">\r\n\r\n        <div class=\"row\">\r\n          <div class=\"col-xl-9 col-lg-10 mx-auto\">\r\n            <div class=\"bg-dark rounded p-5\">\r\n              <h2 class=\"section-heading mb-4\">\r\n                <span class=\"section-heading-upper\">Anyone can find a spot, no matter where you are, or where you’re going</span>\r\n                <span class=\"section-heading-lower\">About Our Application</span>\r\n              </h2>\r\n              <p class=\"text-light\">\r\n                  We are Spotback and we offer on-demand parking services for a flat rate fee to those that don’t want \r\n                  to wait for a spot or drive around until you find one, only to find yourself way too far \r\n                  from your destination. With Spotback you choose your destination &amp; we will match \r\n                  you with a user who's near your destination, about to leave their spot &amp; willing to hold \r\n                  the parking space until you arrive. You pay a small fee for the users time to hold the spot &amp;\r\n                  in return you get a prime parking space.\r\n              </p>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n</section>\r\n<section class=\"page-section\">\r\n    <div class=\"container\">\r\n      <div class=\"product-item\">\r\n        <div class=\"product-item-title d-flex\">\r\n            <!-- <div class=\"about-heading-content\"> -->\r\n          <div class=\"bg-dark p-5 d-flex ml-auto rounded\">\r\n            <h2 class=\"section-heading mb-0\">\r\n              <span class=\"section-heading-upper\">Driving somewhere?</span>\r\n              <span class=\"section-heading-lower\">Where will you park?</span>\r\n            </h2>\r\n          </div>\r\n          \r\n        </div>\r\n        <img class=\"product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0\" src=\"./../../../assets/images/parking_meters.jpg\" alt=\"\">\r\n        <div class=\"product-item-description d-flex mr-auto\">\r\n          <div class=\"bg-dark p-5 rounded\">\r\n            <p class=\"mb-0 text-light\">\r\n              When you get close to your destination simply go on your spotback app, pick your destination, \r\n              and let us find you the perfect spot.\r\n            </p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"page-section\">\r\n    <div class=\"container\">\r\n      <div class=\"product-item\">\r\n        <div class=\"product-item-title d-flex\">\r\n          <div class=\"bg-dark p-5 d-flex ml-auto rounded\">\r\n            <h2 class=\"section-heading mb-0\">\r\n              <span class=\"section-heading-upper\">Ready to leave?</span>\r\n              <span class=\"section-heading-lower\">Just wait and get paid!</span>\r\n            </h2>\r\n          </div>\r\n        </div>\r\n        <img class=\"product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0\" src=\"./../../../assets/images/cityPark1.jpg\" alt=\"\">\r\n        <div class=\"product-item-description d-flex mr-auto\">\r\n          <div class=\"bg-dark p-5 rounded\">\r\n            <p class=\"mb-0t text-light\">\r\n              On your way back to your car, post your cars location, and we will find someone nearby trying to park.\r\n              When you swap spots you will reveice a payment for your time.\r\n            </p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n"
+module.exports = "<section class=\"page-section about-heading\">\r\n  <div class=\"container\">\r\n      <img class=\"img-fluid rounded about-heading-img mb-3 mb-lg-0\" src=\"../../../assets/images/lookingPark.jpg\" alt=\"\">\r\n      <div class=\"about-heading-content\">\r\n\r\n        <div class=\"row\">\r\n          <div class=\"col-xl-9 col-lg-10 mx-auto\">\r\n            <div class=\"bg-dark rounded p-5\">\r\n              <h2 class=\"section-heading mb-4\">\r\n                <span class=\"section-heading-upper\">Anyone can find a spot, no matter where you are, or where you’re going</span>\r\n                <span class=\"section-heading-lower\">About Our Application</span>\r\n              </h2>\r\n              <p class=\"text-light\">\r\n                  We are Spotback and we offer on-demand parking services for a flat rate fee to those that don’t want \r\n                  to wait for a spot or drive around until you find one, only to find yourself way too far \r\n                  from your destination. With Spotback you choose your destination &amp; we will match \r\n                  you with a user who's near your destination, about to leave their spot &amp; willing to hold \r\n                  the parking space until you arrive. You pay a small fee for the users time to hold the spot &amp;\r\n                  in return you get a prime parking space.\r\n              </p>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n</section>\r\n<section class=\"page-section\">\r\n    <div class=\"container\">\r\n      <div class=\"product-item\">\r\n        <div class=\"product-item-title d-flex\">\r\n            <!-- <div class=\"about-heading-content\"> -->\r\n          <div class=\"bg-dark p-5 d-flex ml-auto rounded\">\r\n            <h2 class=\"section-heading mb-0\">\r\n              <span class=\"section-heading-upper\">Driving somewhere?</span>\r\n              <span class=\"section-heading-lower\">Where will you park?</span>\r\n            </h2>\r\n          </div>\r\n          \r\n        </div>\r\n        <img class=\"product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0\" src=\"./../../../assets/images/parking_meters.jpg\" alt=\"\">\r\n        <div class=\"product-item-description d-flex mr-auto\">\r\n          <div class=\"bg-dark p-5 rounded\">\r\n            <p class=\"mb-0 text-light\">\r\n              When you get close to your destination simply go on your spotback app, pick your destination, \r\n              and let us find you the perfect spot.\r\n            </p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"page-section\">\r\n    <div class=\"container\">\r\n      <div class=\"product-item\">\r\n        <div class=\"product-item-title d-flex\">\r\n          <div class=\"bg-dark p-5 d-flex ml-auto rounded\">\r\n            <h2 class=\"section-heading mb-0\">\r\n              <span class=\"section-heading-upper\">Ready to leave?</span>\r\n              <span class=\"section-heading-lower\">Just wait and get paid!</span>\r\n            </h2>\r\n          </div>\r\n        </div>\r\n        <img class=\"product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0\" src=\"./../../../assets/images/cityPark1.jpg\" alt=\"\">\r\n        <div class=\"product-item-description d-flex mr-auto\">\r\n          <div class=\"bg-dark p-5 rounded\">\r\n            <p class=\"mb-0t text-light\">\r\n              On the way back to your car, post your cars location, and we will find someone nearby trying to park.\r\n              When you swap spots you will reveice a payment for your time.\r\n            </p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n"
 
 /***/ }),
 
@@ -541,7 +541,7 @@ module.exports = "/* Three image containers (use 25% for four, and 50% for two, 
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\">\r\n\r\n  <div class=\"row\">\r\n    <div class=\"col\">\r\n      <section class=\"page-section\">\r\n        <div class=\"container\">\r\n          <div class=\"product-item-description d-flex mr-auto\">\r\n\r\n            <div class=\"bg-dark p-5 rounded category-view\" *ngIf=\"!showIngredients\">\r\n              <h2 class=\"section-heading mb-0\">\r\n                <span class=\"section-heading-upper\">The Spotback Team</span>\r\n              </h2>\r\n              <br>\r\n              <div class=\"row\">\r\n                <div class=\"column\">\r\n                  <img src=\"../../../assets/images/joey.png\" width=\"100\" (click)=\"showCarne()\">\r\n                  <span class=\"text-light\">Joey Caruana</span>\r\n                </div>\r\n                <div class=\"column\">\r\n                  <img src=\"../../../assets/images/shamuan.png\" width=\"100\" (click)=\"showDairy()\">\r\n                  <span class=\"text-light\">Shamaun Anees</span>\r\n                </div>\r\n                <div class=\"column\">\r\n                    <img src=\"../../../assets/images/anon.png\" width=\"100\" (click)=\"showFruit()\">\r\n                    <span class=\"text-light\">Dmitry Sokolov</span>\r\n                  </div>\r\n              </div>\r\n              <div class=\"row\">\r\n                  <div class=\"column\">\r\n                      <img src=\"../../../assets/images/me.png\" width=\"95\" (click)=\"showVeggie()\">\r\n                      <span class=\"text-light\">Dylan Corbus</span>\r\n                    </div>\r\n                <div class=\"column\">\r\n                  <img src=\"../../../assets/images/anon.png\" width=\"100\" (click)=\"showGrain()\">\r\n                  <span class=\"text-light\">Usman Yaqoob</span>\r\n                </div>\r\n              </div>\r\n            </div>\r\n            <div class=\"bg-dark p-5 rounded\" *ngIf=\"showIngredients\">\r\n              <div>\r\n                <h2 class=\"section-heading mb-0 text-light\">\r\n                  <span class=\"section-heading-upper\">{{this.currentCategory}}</span>\r\n                  <span class=\"section-heading-lower\">Bio</span>\r\n                </h2>\r\n                <br>\r\n                <div class=\"card-deck row\">\r\n                  <!-- <div class=\"card-block\" *ngFor=\"let ingredient of ingredients\">\r\n                    <button class=\"btn btn-sm button\" [ngClass]=\"{\r\n                      'btn-meat':ingredient.category === 'meats',\r\n                      'btn-dairy':ingredient.category === 'dairy',\r\n                      'btn-veggies':ingredient.category === 'veggies',\r\n                      'btn-fruits':ingredient.category === 'fruits',\r\n                      'btn-spices':ingredient.category === 'spices',\r\n                      'btn-grains':ingredient.category === 'grains'}\" (click)=\"addToPantry(ingredient)\" >{{ingredient.name}}</button>\r\n                    \r\n                  </div> -->\r\n                </div>\r\n              </div>\r\n              <label class=\"change-category \">\r\n                <button (click)=\"this.showIngredients=false;\" class=\"btn btn-primary\">Back To the Team</button>\r\n              </label>\r\n            </div>\r\n          </div>\r\n        </div>\r\n\r\n      </section>\r\n    </div>\r\n    <div class=\"col\">\r\n      <app-pantry></app-pantry>\r\n    </div>\r\n  </div>\r\n</div>"
+module.exports = "<div class=\"container\">\r\n\r\n  <div class=\"row\">\r\n    <div class=\"col\">\r\n      <section class=\"page-section\">\r\n        <div class=\"container\">\r\n          <div class=\"product-item-description d-flex mr-auto\">\r\n\r\n            <div class=\"bg-dark p-5 rounded category-view\" *ngIf=\"!showIngredients\">\r\n              <h2 class=\"section-heading mb-0\">\r\n                <span class=\"section-heading-upper\">The Spotback Team</span>\r\n              </h2>\r\n              <br>\r\n              <div class=\"row\">\r\n                <div class=\"column\">\r\n                  <img src=\"../../../assets/images/joey.png\" width=\"100\" (click)=\"showCarne()\">\r\n                  <span class=\"text-light\">Joey Caruana</span>\r\n                </div>\r\n                <div class=\"column\">\r\n                  <img src=\"../../../assets/images/sham2.png\" width=\"100\" (click)=\"showDairy()\">\r\n                  <span class=\"text-light\">Shamaun Anees</span>\r\n                </div>\r\n                <div class=\"column\">\r\n                    <img src=\"../../../assets/images/anon.png\" width=\"100\" (click)=\"showFruit()\">\r\n                    <span class=\"text-light\">Dmitry Sokolov</span>\r\n                  </div>\r\n              </div>\r\n              <div class=\"row\">\r\n                  <div class=\"column\">\r\n                      <img src=\"../../../assets/images/me.png\" width=\"95\" (click)=\"showVeggie()\">\r\n                      <span class=\"text-light\">Dylan Corbus</span>\r\n                    </div>\r\n                <div class=\"column\">\r\n                  <img src=\"../../../assets/images/anon.png\" width=\"100\" (click)=\"showGrain()\">\r\n                  <span class=\"text-light\">Usman Yaqoob</span>\r\n                </div>\r\n              </div>\r\n            </div>\r\n            <div class=\"bg-dark p-5 rounded\" *ngIf=\"showIngredients\">\r\n              <div>\r\n                <h2 class=\"section-heading mb-0 text-light\">\r\n                  <span class=\"section-heading-upper\">{{this.currentCategory}}</span>\r\n                  <span class=\"section-heading-lower\">Bio</span>\r\n                </h2>\r\n                <br>\r\n                <div class=\"card-deck row\">\r\n                  <div class=\"card-block\" *ngFor=\"let string of ingredients1\">\r\n                    <p class=\"text-light\">{{string}}</p>\r\n                  </div>\r\n                </div>\r\n              </div>\r\n              <label class=\"change-category \">\r\n                <button (click)=\"this.showIngredients=false;\" class=\"btn btn-primary\">Back To the Team</button>\r\n              </label>\r\n            </div>\r\n          </div>\r\n        </div>\r\n\r\n      </section>\r\n    </div>\r\n    <div class=\"col\">\r\n      <app-pantry></app-pantry>\r\n    </div>\r\n  </div>\r\n</div>"
 
 /***/ }),
 
@@ -578,11 +578,11 @@ var FoodCategoryComponent = /** @class */ (function () {
         this.foodService = foodService;
         this.pantryService = pantryService;
         this.ingredients = [];
+        this.ingredients1 = [];
         this.masterPantry = [];
-        this.meatIngredients = this.foodService.getMeats();
+        this.meat1Ingredients = this.foodService.getMeats();
         this.dairyIngredients = this.foodService.getDairy();
         this.veggiesIngredients = this.foodService.getVeggies();
-        this.spicesIngredients = this.foodService.getSpices();
         this.fruitsIngredients = this.foodService.getFruits();
         this.starchesIngredients = this.foodService.getStarches();
         this.usersIngredients = [];
@@ -594,7 +594,6 @@ var FoodCategoryComponent = /** @class */ (function () {
     }
     FoodCategoryComponent.prototype.ngOnInit = function () {
         this.showIngredients = false;
-        this.masterPantry = this.foodService.pantry;
     };
     // filterOutLoggedInUsersIngredients() {
     // console.log(this.pantryService.ingredient);
@@ -639,37 +638,36 @@ var FoodCategoryComponent = /** @class */ (function () {
         });
     };
     FoodCategoryComponent.prototype.showCarne = function () {
-        this.ingredients = this.meatIngredients;
+        this.ingredients1 = this.meat1Ingredients;
         this.sortIngredients();
-        this.currentCategory = "Joey Caruana Founder and CEO";
+        this.currentCategory = 'Joey Caruana Founder and CEO';
         this.showIngredients = true;
     };
     FoodCategoryComponent.prototype.showDairy = function () {
-        this.ingredients = this.dairyIngredients;
+        this.ingredients1 = this.dairyIngredients;
         this.sortIngredients();
         this.currentCategory = "Shamaun Anees Co-founder";
         this.showIngredients = true;
     };
     FoodCategoryComponent.prototype.showVeggie = function () {
-        this.ingredients = this.veggiesIngredients;
+        this.ingredients1 = this.veggiesIngredients;
         this.sortIngredients();
-        this.currentCategory = "Dylan Corbus Co-founder/Backend Engineer/Web Developer";
+        this.currentCategory = "Dylan Corbus Co-founder/Full-stack Developer";
         this.showIngredients = true;
     };
     FoodCategoryComponent.prototype.showFruit = function () {
-        this.ingredients = this.fruitsIngredients;
+        this.ingredients1 = this.fruitsIngredients;
         this.sortIngredients();
         this.currentCategory = "Dmitry Sokolov Co-founder/IOS Developer";
         this.showIngredients = true;
     };
     FoodCategoryComponent.prototype.showGrain = function () {
-        this.ingredients = this.starchesIngredients;
+        this.ingredients1 = this.starchesIngredients;
         this.sortIngredients();
         this.currentCategory = "Usman Yaqoob Co-fouder/Backend Engineer";
         this.showIngredients = true;
     };
     FoodCategoryComponent.prototype.showHerbSpice = function () {
-        this.ingredients = this.spicesIngredients;
         this.sortIngredients();
         this.currentCategory = "herbs-spices";
         this.showIngredients = true;
@@ -681,24 +679,6 @@ var FoodCategoryComponent = /** @class */ (function () {
         // console.log(this.meatIngredients);
         // console.log(this.masterPantry);
         // this.masterPantry.splice(this.masterPantry.indexOf(ingredient, 0), 1);
-        if (cat == "meats") {
-            this.meatIngredients.splice(this.meatIngredients.indexOf(ingredient, 0), 1);
-        }
-        if (cat == "dairy") {
-            this.dairyIngredients.splice(this.dairyIngredients.indexOf(ingredient, 0), 1);
-        }
-        if (cat == "spices") {
-            this.spicesIngredients.splice(this.spicesIngredients.indexOf(ingredient, 0), 1);
-        }
-        if (cat == "fruits") {
-            this.fruitsIngredients.splice(this.fruitsIngredients.indexOf(ingredient, 0), 1);
-        }
-        if (cat == "grains") {
-            this.starchesIngredients.splice(this.starchesIngredients.indexOf(ingredient, 0), 1);
-        }
-        if (cat == "veggies") {
-            this.veggiesIngredients.splice(this.veggiesIngredients.indexOf(ingredient, 0), 1);
-        }
         // this.ingredients.splice(this.ingredients.indexOf(ingredient, 0), 1);
     };
     FoodCategoryComponent = __decorate([
@@ -797,7 +777,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<link href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css\" rel=\"stylesheet\">\r\n\r\n<div class=\"modal-header\" style=\"margin: 0 auto\">\r\n\r\n  <h4 class=\"modal-title\">Login Or Register</h4>\r\n\r\n</div>\r\n\r\n<div id=\"login-overlay\">\r\n\r\n  <div class=\"modal-body\">\r\n    <div class=\"row\">\r\n\r\n      <div class=\"col-xs-12 col-md-6\">\r\n        <div class=\"well\">\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"username\" class=\"control-label\">Username</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"username\" name=\"username\" value=\"\" required title=\"Please enter your username\"\r\n              placeholder=\"username...\" [(ngModel)]='username'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"password\" class=\"control-label\">Password</label>\r\n            <input type=\"password\" class=\"form-control\" id=\"password\" name=\"password\" value=\"\" required title=\"Please enter your password\"\r\n              placeholder=\"password...\" [(ngModel)]='password'>\r\n          </div>\r\n\r\n          <!-- <div [hidden]=\"hidden\" id=\"loginErrorMsg\" class=\"alert alert-error hide\">Wrong username/password!</div> -->\r\n\r\n          <button type=\"submit\" class=\"btn btn-success btn-block\" (click)=\"login()\" >Login</button>\r\n          \r\n        </div>\r\n      </div>\r\n      \r\n      <div class=\"col-xs-12 col-md-6\">\r\n        <div class=\"well\">\r\n          \r\n          <div class=\"form-group\">\r\n            <label for=\"firstName\" class=\"control-label\">First Name</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"firstName\" name=\"firstName\" value=\"\" required title=\"Enter first name\"\r\n              placeholder=\"Enter first name...\" [(ngModel)]='firstName'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"lastName\" class=\"control-label\">Last Name</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"lastName\" name=\"lastName\" value=\"\" required title=\"Enter last name\"\r\n              placeholder=\"Enter last name...\" [(ngModel)]='lastName'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"newUsername\" class=\"control-label\">Email</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"email\" name=\"email\" value=\"\" required title=\"Enter an email\"\r\n              placeholder=\"Select a username...\" [(ngModel)]='email'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"newPassword\" class=\"control-label\">Password</label>\r\n            <input type=\"password\" class=\"form-control\" id=\"newPassword\" name=\"newPassword\" value=\"\" required title=\"Choose your password\"\r\n              placeholder=\"Choose your password...\" [(ngModel)]='newPassword'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"confirmPassword\" class=\"control-label\">Confirm Password</label>\r\n            <input type=\"password\" class=\"form-control\" id=\"confirmPassword\" name=\"confirmPassword\" value=\"\" required\r\n              title=\"Confirm password\" placeholder=\"Confirm password...\" [(ngModel)]='confirmPassword'>\r\n          </div>\r\n\r\n          <!-- <div class=\"form-group\">\r\n            <label for=\"newEmail\" class=\"control-label\">Email</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"newEmail\" name=\"newEmail\" value=\"\" required title=\"Enter email address\"\r\n              placeholder=\"Enter email address...\" [(ngModel)]='newEmail'>\r\n          </div> -->\r\n\r\n          <div [hidden]=\"hidden1\" id=\"registerErrorMsg\" class=\"alert alert-error hide\">Fill in fields!</div>\r\n\r\n          <button type=\"submit\" class=\"btn btn-primary btn-block\" (click)=\"checkPasswords()\" (click)=\"dismissModal('Close click')\">Register\r\n            now!</button>\r\n\r\n        </div>\r\n      </div>\r\n\r\n\r\n    </div>\r\n  </div>\r\n\r\n</div>\r\n\r\n<div class=\"modal-footer\">\r\n  <button type=\"button\" class=\"btn btn-outline-danger btn-lg\" (click)=\"dismissModal('Close click')\">Close</button>\r\n</div>"
+module.exports = "<link href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css\" rel=\"stylesheet\">\r\n<div class=\"someUniqueId\">\r\n<div class=\"modal-header\" style=\"margin: 0 auto\">\r\n\r\n  <h4 class=\"modal-title\">Login Or Register</h4>\r\n\r\n</div>\r\n\r\n<div id=\"login-overlay\">\r\n\r\n  <div class=\"modal-body\">\r\n    <div class=\"row\">\r\n\r\n      <div class=\"col-xs-12 col-md-6\">\r\n        <div class=\"well\">\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"username\" class=\"control-label\">Username</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"username\" name=\"username\" value=\"\" required title=\"Please enter your username\"\r\n              placeholder=\"username...\" [(ngModel)]='username'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"password\" class=\"control-label\">Password</label>\r\n            <input type=\"password\" class=\"form-control\" id=\"password\" name=\"password\" value=\"\" required title=\"Please enter your password\"\r\n              placeholder=\"password...\" [(ngModel)]='password'>\r\n          </div>\r\n\r\n          <!-- <div [hidden]=\"hidden\" id=\"loginErrorMsg\" class=\"alert alert-error hide\">Wrong username/password!</div> -->\r\n\r\n          <button type=\"submit\" class=\"btn btn-secondary btn-block\" (click)=\"login()\" >Login</button>\r\n          \r\n        </div>\r\n      </div>\r\n      \r\n      <div class=\"col-xs-12 col-md-6\">\r\n        <div class=\"well\">\r\n          \r\n          <div class=\"form-group\">\r\n            <label for=\"firstName\" class=\"control-label\">First Name</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"firstName\" name=\"firstName\" value=\"\" required title=\"Enter first name\"\r\n              placeholder=\"Enter first name...\" [(ngModel)]='firstName'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"lastName\" class=\"control-label\">Last Name</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"lastName\" name=\"lastName\" value=\"\" required title=\"Enter last name\"\r\n              placeholder=\"Enter last name...\" [(ngModel)]='lastName'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"newUsername\" class=\"control-label\">Email</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"email\" name=\"email\" value=\"\" required title=\"Enter an email\"\r\n              placeholder=\"Select a username...\" [(ngModel)]='email'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"newPassword\" class=\"control-label\">Password</label>\r\n            <input type=\"password\" class=\"form-control\" id=\"newPassword\" name=\"newPassword\" value=\"\" required title=\"Choose your password\"\r\n              placeholder=\"Choose your password...\" [(ngModel)]='newPassword'>\r\n          </div>\r\n\r\n          <div class=\"form-group\">\r\n            <label for=\"confirmPassword\" class=\"control-label\">Confirm Password</label>\r\n            <input type=\"password\" class=\"form-control\" id=\"confirmPassword\" name=\"confirmPassword\" value=\"\" required\r\n              title=\"Confirm password\" placeholder=\"Confirm password...\" [(ngModel)]='confirmPassword'>\r\n          </div>\r\n\r\n          <!-- <div class=\"form-group\">\r\n            <label for=\"newEmail\" class=\"control-label\">Email</label>\r\n            <input type=\"text\" class=\"form-control\" id=\"newEmail\" name=\"newEmail\" value=\"\" required title=\"Enter email address\"\r\n              placeholder=\"Enter email address...\" [(ngModel)]='newEmail'>\r\n          </div> -->\r\n\r\n          <div [hidden]=\"hidden1\" id=\"registerErrorMsg\" class=\"alert alert-error hide\">Fill in fields!</div>\r\n\r\n          <button type=\"submit\" class=\"btn btn-secondary btn-block\" (click)=\"checkPasswords()\" (click)=\"dismissModal('Close click')\">Register\r\n            now!</button>\r\n\r\n        </div>\r\n      </div>\r\n\r\n\r\n    </div>\r\n  </div>\r\n\r\n</div>\r\n\r\n<div class=\"modal-footer\">\r\n  <button type=\"button\" class=\"btn btn-danger btn-lg\" (click)=\"dismissModal('Close click')\">Close</button>\r\n</div>\r\n</div>"
 
 /***/ }),
 
@@ -877,13 +857,6 @@ var LoginRegisterComponent = /** @class */ (function () {
                         setTimeout(_this.pantryService.unpackUserPantryArray(_this.authService.theOldIngredients), 5000);
                         _this.reload('categories');
                         _this.modalService.dismissAll();
-                        _this.removeIngFromFoodComp();
-                        // this.foodCategory.meatIngredients = this.handleArrayService.getMeats();
-                        // this.foodCategory.dairyIngredients = this.handleArrayService.getDairy();
-                        // this.foodCategory.veggiesIngredients = this.handleArrayService.getVeggies();
-                        // this.foodCategory.spicesIngredients = this.handleArrayService.getSpices();
-                        // this.foodCategory.fruitsIngredients = this.handleArrayService.getFruits();
-                        // this.foodCategory.starchesIngredients = this.handleArrayService.getStarches();
                     });
                 }
             });
@@ -948,69 +921,6 @@ var LoginRegisterComponent = /** @class */ (function () {
     LoginRegisterComponent.prototype.reload = function (link) {
         var _this = this;
         this.router.navigate(['/'], { skipLocationChange: true }).then(function () { _this.router.navigate([link]); });
-    };
-    LoginRegisterComponent.prototype.removeIngFromFoodComp = function () {
-        for (var _i = 0, _a = this.pantryService.ingredient; _i < _a.length; _i++) {
-            var ing = _a[_i];
-            var cat = ing.category;
-            if (cat == "meats") {
-                // this.foodCategory.meatIngredients.splice(this.foodCategory.meatIngredients.indexOf(ing, 0), 1);
-                // console.log(ing);
-                for (var i = 0; i < this.foodCategory.meatIngredients.length; i++) {
-                    if (ing.id == this.foodCategory.meatIngredients[i].id) {
-                        this.foodCategory.meatIngredients.splice(i, 1);
-                    }
-                }
-            }
-            if (cat == "dairy") {
-                // this.foodCategory.dairyIngredients.splice(this.foodCategory.dairyIngredients.indexOf(ing, 0), 1);
-                // console.log(ing);
-                for (var i = 0; i < this.foodCategory.dairyIngredients.length; i++) {
-                    if (ing.id === this.foodCategory.dairyIngredients[i].id) {
-                        this.foodCategory.dairyIngredients.splice(i, 1);
-                    }
-                }
-            }
-            if (cat == "spices") {
-                // this.foodCategory.spicesIngredients.splice(this.foodCategory.spicesIngredients.indexOf(ing, 0), 1);
-                // console.log(ing);
-                for (var i = 0; i < this.foodCategory.spicesIngredients.length; i++) {
-                    if (ing.id === this.foodCategory.spicesIngredients[i].id) {
-                        this.foodCategory.spicesIngredients.splice(i, 1);
-                    }
-                }
-            }
-            if (cat == "fruits") {
-                // this.foodCategory.fruitsIngredients.splice(this.foodCategory.fruitsIngredients.indexOf(ing, 0), 1);
-                // console.log(ing);
-                for (var i = 0; i < this.foodCategory.fruitsIngredients.length; i++) {
-                    if (ing.id === this.foodCategory.fruitsIngredients[i].id) {
-                        this.foodCategory.fruitsIngredients.splice(i, 1);
-                    }
-                }
-            }
-            if (cat == "grains") {
-                // console.log("zzzzzzzzzzz")
-                // console.log(this.foodCategory.starchesIngredients.splice(this.foodCategory.starchesIngredients.indexOf(ing, 0), 1))
-                // console.log("zzzzzzzzzzzz")
-                // // this.foodCategory.starchesIngredients.splice(this.foodCategory.starchesIngredients.indexOf(ing, 0), 1);
-                // console.log(ing);
-                for (var i = 0; i < this.foodCategory.starchesIngredients.length; i++) {
-                    if (ing.id === this.foodCategory.starchesIngredients[i].id) {
-                        this.foodCategory.starchesIngredients.splice(i, 1);
-                    }
-                }
-            }
-            if (cat == "veggies") {
-                // this.foodCategory.veggiesIngredients.splice(this.foodCategory.veggiesIngredients.indexOf(ing, 0), 1);
-                // console.log(ing);
-                for (var i = 0; i < this.foodCategory.veggiesIngredients.length; i++) {
-                    if (ing.id === this.foodCategory.veggiesIngredients[i].id) {
-                        this.foodCategory.veggiesIngredients.splice(i, 1);
-                    }
-                }
-            }
-        }
     };
     LoginRegisterComponent = __decorate([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
@@ -1275,7 +1185,7 @@ module.exports = ".button {\r\n    background-color: #e6a756; /* Safari */\r\n  
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col\">\r\n    <section class=\"page-section\">\r\n        <div class=\"bg-dark p-5 rounded\">\r\n            <h2 class=\"section-heading mb-0\">\r\n                <span class=\"section-heading-upper\">Spotback Contact info</span>\r\n            </h2>\r\n            <br>\r\n            <div class=\"card-deck row text-light\">\r\n                <ul>\r\n                    <li>Phone: (555)555-5555</li>\r\n                    <li>Email: Spotbackteam@gmail.com</li>\r\n                </ul>\r\n            </div>\r\n            <br>\r\n            <hr>\r\n            <button class=\"btn btn-primary\" *ngIf=\"this.authService.notLoggedIn\" (click)=\"addSelectionToArray()\">Search for Recipes!</button>\r\n            <button class=\"btn btn-primary\" *ngIf=\"this.authService.isLoggedIn\" (click)=\"updatePantry()\" (click)=\"addSelectionToArray()\">Search for Recipes!</button>\r\n        </div>\r\n    </section>\r\n</div>\r\n<!-- *ngFor=\"let i of this.userPantryIngredients.name\" -->"
+module.exports = "<div class=\"col\">\r\n    <section class=\"page-section\">\r\n        <div class=\"bg-dark p-5 rounded\">\r\n            <h2 class=\"section-heading mb-0\">\r\n                <span class=\"section-heading-upper\">Spotback Contact info</span>\r\n            </h2>\r\n            <br>\r\n            <div class=\"card-deck row text-light\">\r\n                <ul>\r\n                    <li>Phone: (555)555-5555</li>\r\n                    <li>Email: Spotbackteam@gmail.com</li>\r\n                </ul>\r\n                <div class=\"form-group\">\r\n                    <label for=\"firstName\" class=\"control-label\">First Name</label>\r\n                    <input type=\"text\" class=\"form-control input-sm\" id=\"firstName\" name=\"firstName\" value=\"\" required title=\"Enter first name\" placeholder=\"Enter first name...\" [(ngModel)]='firstName'>\r\n                    <label for=\"firstName\" class=\"control-label\">Email address</label>\r\n                    <input type=\"text\" class=\"form-control input-sm\" id=\"email\" name=\"email\" value=\"\" required title=\"Enter email\" placeholder=\"Enter email...\" [(ngModel)]='email'>\r\n                    <label for=\"firstName\" class=\"control-label\">Subject</label>\r\n                    <input type=\"text\" class=\"form-control input-lg\" id=\"subject\" name=\"subject\" value=\"\" required title=\"Enter subject\" placeholder=\"Enter subject...\" [(ngModel)]='subject'>\r\n                </div>\r\n                <div class=\"form-group\">\r\n                    \r\n                </div>\r\n            </div>\r\n            <br>\r\n            <hr>\r\n        </div>\r\n    </section>\r\n</div>\r\n<!-- *ngFor=\"let i of this.userPantryIngredients.name\" -->"
 
 /***/ }),
 
@@ -1324,91 +1234,6 @@ var PantryComponent = /** @class */ (function () {
         this.databasestring = '';
     }
     PantryComponent.prototype.ngOnInit = function () {
-    };
-    PantryComponent.prototype.removeItemFromPantry = function (ingredient) {
-        var cat = ingredient.category;
-        this.pantryService.ingredient.splice(this.pantryService.ingredient.indexOf(ingredient, 0), 1);
-        // if all ingredients includes the ingredient
-        // if (this.foodCategory.masterPantry.includes(ingredient)) {
-        //  console.log('already exists in on left');
-        // } else {
-        if (cat == "meats") {
-            this.foodCategory.meatIngredients.push(ingredient);
-        }
-        if (cat == "dairy") {
-            this.foodCategory.dairyIngredients.push(ingredient);
-        }
-        if (cat == "spices") {
-            this.foodCategory.spicesIngredients.push(ingredient);
-        }
-        if (cat == "fruits") {
-            this.foodCategory.fruitsIngredients.push(ingredient);
-        }
-        if (cat == "grains") {
-            this.foodCategory.starchesIngredients.push(ingredient);
-        }
-        if (cat == "veggies") {
-            this.foodCategory.veggiesIngredients.push(ingredient);
-        }
-        // this.foodCategory.masterPantry.push(ingredient);
-        // otherwise, compare the category of the element
-        //   if (ingredient.category === this.foodCategory.currentCategory) {
-        //     // make the visible switch
-        //     // this.foodCategory.ingredients.push(ingredient);
-        // }  
-        // }
-    };
-    PantryComponent.prototype.updatePantry = function (databasestring) {
-        var _this = this;
-        this.ingredient = this.pantryService.ingredient;
-        this.searchAlgorithmService.searchPantryRecipes(this.ingredient).subscribe(function (data) {
-            _this.searchAlgorithmService.resultSet = data;
-        });
-        this.turnArrayToString();
-        databasestring = this.databasestring;
-        this.authService.intermediaryFunctionForUpdatePantry(databasestring).subscribe(function (data) { return data; });
-    };
-    // to be used to sort the pantry items
-    PantryComponent.prototype.sortIngredients = function () {
-        this.ingredient.sort(function (a, b) {
-            if (a.name < b.name) {
-                return -1;
-            }
-            if (a.name > b.name) {
-                return 1;
-            }
-            return 0;
-        });
-    };
-    PantryComponent.prototype.sortIngredientsType = function (arr) {
-        arr.sort(function (a, b) {
-            if (a.name < b.name) {
-                return -1;
-            }
-            if (a.name > b.name) {
-                return 1;
-            }
-            return 0;
-        });
-        return arr;
-    };
-    PantryComponent.prototype.addSelectionToArray = function () {
-        var _this = this;
-        this.ingredient = this.pantryService.ingredient;
-        this.searchAlgorithmService.searchPantryRecipes(this.ingredient).subscribe(function (data) {
-            _this.searchAlgorithmService.resultSet = data;
-        });
-        this.turnArrayToString();
-        this.router.navigate(['feature']);
-    };
-    PantryComponent.prototype.turnArrayToString = function () {
-        this.databasestring = String(this.pantryService.ingredient[0].id);
-        for (var i = 1; i < this.pantryService.ingredient.length; i++) {
-            this.databasestring = String(this.databasestring + ',' + this.pantryService.ingredient[i].id);
-        }
-        this.pantryService.userPantryString = this.databasestring;
-        this.authService.userPantryString = this.databasestring;
-        // this.unpackUserPantryArray();
     };
     PantryComponent = __decorate([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
@@ -1889,344 +1714,41 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 
 var HandleArraysService = /** @class */ (function () {
     function HandleArraysService() {
-        this.therecipes = [];
-        this.meats = [
-            { id: 1, name: 'Beef', category: 'meats', weight: 12 },
-            { id: 2, name: 'Chicken', category: 'meats', weight: 12 },
-            { id: 3, name: 'Turkey', category: 'meats', weight: 12 },
-            { id: 4, name: 'Pork', category: 'meats', weight: 12 },
-            { id: 5, name: 'Shrimp', category: 'meats', weight: 12 },
-            { id: 6, name: 'Salmon', category: 'meats', weight: 12 },
-            { id: 7, name: 'Tuna', category: 'meats', weight: 12 },
-            { id: 8, name: 'Tilapia', category: 'meats', weight: 12 },
-            { id: 9, name: 'Halibut', category: 'meats', weight: 12 },
-            { id: 10, name: 'Lamb', category: 'meats', weight: 12 },
-            { id: 11, name: 'Sardines', category: 'meats', weight: 12 },
-            { id: 12, name: 'Liver', category: 'meats', weight: 12 },
-            { id: 13, name: 'Ham', category: 'meats', weight: 12 },
-            { id: 14, name: 'Bacon', category: 'meats', weight: 12 },
-            { id: 15, name: 'Tripe', category: 'meats', weight: 12 },
-            { id: 16, name: 'Scallop', category: 'meats', weight: 12 },
-            { id: 17, name: 'Anchovies', category: 'meats', weight: 12 },
-            { id: 18, name: 'Lobster', category: 'meats', weight: 12 },
-            { id: 19, name: 'Steak', category: 'meats', weight: 12 },
-            { id: 20, name: 'Egg', category: 'meats', weight: 12 },
-            { id: 21, name: 'Tofu', category: 'meats', weight: 12 },
-            { id: 22, name: 'Tempeh', category: 'meats', weight: 12 }
+        this.meats1 = [
+            'San Jose State University BS in Marketing',
+            'Enabling developers to solve complex challenges quickly so they can get back to what’s important: building great products.',
         ];
-        this.veggies = [
-            { id: 23, name: 'Broccoli', category: 'veggies', weight: 4 },
-            { id: 24, name: 'Squash', category: 'veggies', weight: 4 },
-            { id: 25, name: 'Spinach', category: 'veggies', weight: 4 },
-            { id: 26, name: 'Carrots', category: 'veggies', weight: 4 },
-            { id: 27, name: 'Onion', category: 'veggies', weight: 4 },
-            { id: 28, name: 'Cabbage', category: 'veggies', weight: 4 },
-            { id: 29, name: 'Zucchini', category: 'veggies', weight: 4 },
-            { id: 30, name: 'Eggplant', category: 'veggies', weight: 4 },
-            { id: 31, name: 'Corn', category: 'veggies', weight: 4 },
-            { id: 32, name: 'Lettuce', category: 'veggies', weight: 4 },
-            { id: 33, name: 'Chives', category: 'veggies', weight: 4 },
-            { id: 34, name: 'Asparagus', category: 'veggies', weight: 4 },
-            { id: 35, name: 'Garlic', category: 'veggies', weight: 4 },
-            { id: 36, name: 'Peas', category: 'veggies', weight: 4 },
-            { id: 37, name: 'Chickpea', category: 'veggies', weight: 4 },
-            { id: 38, name: 'Mushroom', category: 'veggies', weight: 4 },
-            { id: 39, name: 'Celery', category: 'veggies', weight: 4 },
-            { id: 40, name: 'Kale', category: 'veggies', weight: 4 },
-            { id: 41, name: 'Radish', category: 'veggies', weight: 4 },
-            { id: 42, name: 'Artichokes', category: 'veggies', weight: 4 },
-            { id: 43, name: 'Arugula', category: 'veggies', weight: 4 },
-            { id: 44, name: 'Spring Beans', category: 'veggies', weight: 4 },
-            { id: 45, name: 'Beets', category: 'veggies', weight: 4 },
-            { id: 46, name: 'Belgian Endive', category: 'veggies', weight: 4 },
-            { id: 47, name: 'Bok Choy', category: 'veggies', weight: 4 },
-            { id: 48, name: 'Broccoli Rabe', category: 'veggies', weight: 4 },
-            { id: 49, name: 'Brussel Sprouts', category: 'veggies', weight: 4 },
-            { id: 50, name: 'Cauliflower', category: 'veggies', weight: 4 },
-            { id: 51, name: 'Collard Greens', category: 'veggies', weight: 4 },
-            { id: 52, name: 'Crookneck', category: 'veggies', weight: 4 },
-            { id: 53, name: 'Fennel', category: 'veggies', weight: 4 },
-            { id: 54, name: 'Ginger Root', category: 'veggies', weight: 4 },
-            { id: 55, name: 'Horseradish', category: 'veggies', weight: 4 },
-            { id: 56, name: 'Jicama', category: 'veggies', weight: 4 },
-            { id: 57, name: 'Edamame', category: 'veggies', weight: 4 },
-            { id: 58, name: 'Lentils', category: 'veggies', weight: 4 },
-            { id: 59, name: 'Pinto beans', category: 'veggies', weight: 4 },
-            { id: 60, name: 'Black beans', category: 'veggies', weight: 4 },
-            { id: 61, name: 'Pickles', category: 'veggies', weight: 4 },
-            { id: 62, name: 'Olives', category: 'veggies', weight: 4 }
+        this.dairy1 = [
+            'San Jose State University BS in Finance',
+            'A curious observer and proactive learner, I believe in analyzing problems in a way that generates insights and solutions which are remarkable in their simplicity and efficiency. Contact : Shamaun14@gmail.com , 669 234 2870',
         ];
-        this.fruits = [
-            { id: 63, name: 'Tomato', category: 'fruits', weight: 7 },
-            { id: 64, name: 'Bell Pepper', category: 'fruits', weight: 7 },
-            { id: 65, name: 'Cucumber', category: 'fruits', weight: 7 },
-            { id: 66, name: 'Olives', category: 'fruits', weight: 7 },
-            { id: 67, name: 'Avocado', category: 'fruits', weight: 7 },
-            { id: 68, name: 'Banana', category: 'fruits', weight: 7 },
-            { id: 69, name: 'Pineapple', category: 'fruits', weight: 7 },
-            { id: 70, name: 'Cherry', category: 'fruits', weight: 7 },
-            { id: 71, name: 'Lemon', category: 'fruits', weight: 7 },
-            { id: 72, name: 'Lime', category: 'fruits', weight: 7 },
-            { id: 73, name: 'Orange', category: 'fruits', weight: 7 },
-            { id: 74, name: 'Pear', category: 'fruits', weight: 7 },
-            { id: 75, name: 'Mango', category: 'fruits', weight: 7 },
-            { id: 76, name: 'Jalepeno Pepper', category: 'fruits', weight: 7 },
-            { id: 77, name: 'Strawberry', category: 'fruits', weight: 7 },
-            { id: 78, name: 'Blueberry', category: 'fruits', weight: 7 },
-            { id: 79, name: 'Watermelon', category: 'fruits', weight: 7 },
-            { id: 80, name: 'Apple', category: 'fruits', weight: 7 },
-            { id: 81, name: 'Plum', category: 'fruits', weight: 7 },
-            { id: 82, name: 'Peach', category: 'fruits', weight: 7 },
-            { id: 83, name: 'Grapes', category: 'fruits', weight: 7 },
-            { id: 84, name: 'Coconut', category: 'fruits', weight: 7 },
-            { id: 85, name: 'Cherries', category: 'fruits', weight: 7 },
-            { id: 86, name: 'Raspberry', category: 'fruits', weight: 7 },
-            { id: 87, name: 'Blackberry', category: 'fruits', weight: 7 }
+        this.fruits1 = [
+            'San Jose State University BS in Computer Science',
+            'This is another test message',
         ];
-        this.dairy = [
-            { id: 88, name: 'Buttermilk', category: 'dairy', weight: 5 },
-            { id: 89, name: 'Butter', category: 'dairy', weight: 5 },
-            { id: 90, name: 'Sour cream', category: 'dairy', weight: 5 },
-            { id: 91, name: 'Cheddar Cheese', category: 'dairy', weight: 5 },
-            { id: 92, name: 'Cottage Cheese', category: 'dairy', weight: 5 },
-            { id: 93, name: 'Mozzarella', category: 'dairy', weight: 5 },
-            { id: 94, name: 'Milk', category: 'dairy', weight: 5 },
-            { id: 95, name: 'Swiss Cheese', category: 'dairy', weight: 5 },
-            { id: 96, name: 'Cream', category: 'dairy', weight: 5 },
-            { id: 97, name: 'Cheese', category: 'dairy', weight: 5 },
-            { id: 98, name: 'Cream Cheese', category: 'dairy', weight: 5 },
-            { id: 99, name: 'Eggnog', category: 'dairy', weight: 5 },
-            { id: 100, name: 'Soymilk', category: 'dairy', weight: 5 }
+        this.veggies1 = [
+            'CSU Monterey Bay BS in Information Systems',
+            'I am a Full-stack Web Developer with experience using the Angular framework, Java, using Hibernate, Vertx, and Spring MVC in server-side applications, as well as development experience with Oracle Database 11g, 12c and couchbase NoSQL. I am currently working toward an OCA certification for Java 8 SE.',
         ];
-        this.spices = [
-            { id: 101, name: 'Lemon pepper', category: 'spices', weight: 2 },
-            { id: 102, name: 'Chili Powder', category: 'spices', weight: 2 },
-            { id: 103, name: 'Oregano', category: 'spices', weight: 2 },
-            { id: 104, name: 'Cayenne pepper', category: 'spices', weight: 2 },
-            { id: 105, name: 'Paprika', category: 'spices', weight: 2 },
-            { id: 106, name: 'Basil', category: 'spices', weight: 2 },
-            { id: 107, name: 'Red Pepper', category: 'spices', weight: 2 },
-            { id: 108, name: 'Pepper', category: 'spices', weight: 2 },
-            { id: 109, name: 'Salt', category: 'spices', weight: 2 },
-            { id: 110, name: 'Cumin', category: 'spices', weight: 2 },
-            { id: 111, name: 'Thyme', category: 'spices', weight: 2 },
-            { id: 112, name: 'Cinnamon', category: 'spices', weight: 2 },
-            { id: 113, name: 'Ginger', category: 'spices', weight: 2 },
-            { id: 114, name: 'Parsley', category: 'spices', weight: 2 },
-            { id: 115, name: 'Ketchup', category: 'spices', weight: 2 },
-            { id: 116, name: 'Mustard', category: 'spices', weight: 2 },
-            { id: 117, name: 'Sesame', category: 'spices', weight: 2 },
-            { id: 118, name: 'Onion powder', category: 'spices', weight: 2 },
-            { id: 119, name: 'Bay leaf', category: 'spices', weight: 2 },
-            { id: 120, name: 'Sugar', category: 'spices', weight: 2 },
-            { id: 121, name: 'Powdered sugar', category: 'spices', weight: 2 },
-            { id: 121, name: 'Cilantro', category: 'spices', weight: 2 },
-            { id: 122, name: 'Cloves', category: 'spices', weight: 2 },
-            { id: 123, name: 'Cream of tarter', category: 'spices', weight: 2 },
-            { id: 124, name: 'Curry powder', category: 'spices', weight: 2 },
-            { id: 125, name: 'Nutmeg', category: 'spices', weight: 2 },
-            { id: 126, name: 'Rosemary', category: 'spices', weight: 2 },
-            { id: 127, name: 'Vanilla extract', category: 'spices', weight: 2 },
-            { id: 128, name: 'Dill weed', category: 'spices', weight: 2 },
-            { id: 129, name: 'All spice', category: 'spices', weight: 2 },
-            { id: 130, name: 'Poppy seeds', category: 'spices', weight: 2 },
-            { id: 131, name: 'Peanut butter', category: 'spices', weight: 2 },
-            { id: 132, name: 'Jelly', category: 'spices', weight: 2 },
-            { id: 133, name: 'Soy sauce', category: 'spices', weight: 2 }
-        ];
-        this.starches = [
-            { id: 134, name: 'White Rice', category: 'grains', weight: 15 },
-            { id: 135, name: 'Brown Rice', category: 'grains', weight: 15 },
-            { id: 136, name: 'Wheat', category: 'grains', weight: 15 },
-            { id: 137, name: 'Bread', category: 'grains', weight: 15 },
-            { id: 138, name: 'Rye', category: 'grains', weight: 15 },
-            { id: 139, name: 'Cornmeal', category: 'grains', weight: 15 },
-            { id: 140, name: 'Tortilla', category: 'grains', weight: 15 },
-            { id: 141, name: 'Rice', category: 'grains', weight: 15 },
-            { id: 142, name: 'Lasagna', category: 'grains', weight: 15 },
-            { id: 143, name: 'Linguini', category: 'grains', weight: 15 },
-            { id: 144, name: 'Spaghetti', category: 'grains', weight: 15 },
-            { id: 145, name: 'Fettucini', category: 'grains', weight: 15 },
-            { id: 146, name: 'Ravioli', category: 'grains', weight: 15 },
-            { id: 147, name: 'Baking powder', category: 'grains', weight: 15 },
-            { id: 148, name: 'Flour', category: 'grains', weight: 15 },
-            { id: 149, name: 'Oats', category: 'grains', weight: 15 },
-            { id: 150, name: 'Quinoa', category: 'grains', weight: 15 }
-        ];
-        this.pantry = [
-            { id: 1, name: 'Beef', category: 'meats', weight: 12 },
-            { id: 2, name: 'Chicken', category: 'meats', weight: 12 },
-            { id: 3, name: 'Turkey', category: 'meats', weight: 12 },
-            { id: 4, name: 'Pork', category: 'meats', weight: 12 },
-            { id: 5, name: 'Shrimp', category: 'meats', weight: 12 },
-            { id: 6, name: 'Salmon', category: 'meats', weight: 12 },
-            { id: 7, name: 'Tuna', category: 'meats', weight: 12 },
-            { id: 8, name: 'Tilapia', category: 'meats', weight: 12 },
-            { id: 9, name: 'Halibut', category: 'meats', weight: 12 },
-            { id: 10, name: 'Lamb', category: 'meats', weight: 12 },
-            { id: 11, name: 'Sardines', category: 'meats', weight: 12 },
-            { id: 12, name: 'Liver', category: 'meats', weight: 12 },
-            { id: 13, name: 'Ham', category: 'meats', weight: 12 },
-            { id: 14, name: 'Bacon', category: 'meats', weight: 12 },
-            { id: 15, name: 'Tripe', category: 'meats', weight: 12 },
-            { id: 16, name: 'Scallop', category: 'meats', weight: 12 },
-            { id: 17, name: 'Anchovies', category: 'meats', weight: 12 },
-            { id: 18, name: 'Lobster', category: 'meats', weight: 12 },
-            { id: 19, name: 'Steak', category: 'meats', weight: 12 },
-            { id: 20, name: 'Egg', category: 'meats', weight: 12 },
-            { id: 21, name: 'Tofu', category: 'meats', weight: 12 },
-            { id: 22, name: 'Tempeh', category: 'meats', weight: 12 },
-            { id: 23, name: 'Broccoli', category: 'veggies', weight: 4 },
-            { id: 24, name: 'Squash', category: 'veggies', weight: 4 },
-            { id: 25, name: 'Spinach', category: 'veggies', weight: 4 },
-            { id: 26, name: 'Carrots', category: 'veggies', weight: 4 },
-            { id: 27, name: 'Onion', category: 'veggies', weight: 4 },
-            { id: 28, name: 'Cabbage', category: 'veggies', weight: 4 },
-            { id: 29, name: 'Zucchini', category: 'veggies', weight: 4 },
-            { id: 30, name: 'Eggplant', category: 'veggies', weight: 4 },
-            { id: 31, name: 'Corn', category: 'veggies', weight: 4 },
-            { id: 32, name: 'Lettuce', category: 'veggies', weight: 4 },
-            { id: 33, name: 'Chives', category: 'veggies', weight: 4 },
-            { id: 34, name: 'Asparagus', category: 'veggies', weight: 4 },
-            { id: 35, name: 'Garlic', category: 'veggies', weight: 4 },
-            { id: 36, name: 'Peas', category: 'veggies', weight: 4 },
-            { id: 37, name: 'Chickpea', category: 'veggies', weight: 4 },
-            { id: 38, name: 'Mushroom', category: 'veggies', weight: 4 },
-            { id: 39, name: 'Celery', category: 'veggies', weight: 4 },
-            { id: 40, name: 'Kale', category: 'veggies', weight: 4 },
-            { id: 41, name: 'Radish', category: 'veggies', weight: 4 },
-            { id: 42, name: 'Artichokes', category: 'veggies', weight: 4 },
-            { id: 43, name: 'Arugula', category: 'veggies', weight: 4 },
-            { id: 44, name: 'Spring Beans', category: 'veggies', weight: 4 },
-            { id: 45, name: 'Beets', category: 'veggies', weight: 4 },
-            { id: 46, name: 'Belgian Endive', category: 'veggies', weight: 4 },
-            { id: 47, name: 'Bok Choy', category: 'veggies', weight: 4 },
-            { id: 48, name: 'Broccoli Rabe', category: 'veggies', weight: 4 },
-            { id: 49, name: 'Brussel Sprouts', category: 'veggies', weight: 4 },
-            { id: 50, name: 'Cauliflower', category: 'veggies', weight: 4 },
-            { id: 51, name: 'Collard Greens', category: 'veggies', weight: 4 },
-            { id: 52, name: 'Crookneck', category: 'veggies', weight: 4 },
-            { id: 53, name: 'Fennel', category: 'veggies', weight: 4 },
-            { id: 54, name: 'Ginger Root', category: 'veggies', weight: 4 },
-            { id: 55, name: 'Horseradish', category: 'veggies', weight: 4 },
-            { id: 56, name: 'Jicama', category: 'veggies', weight: 4 },
-            { id: 57, name: 'Edamame', category: 'veggies', weight: 4 },
-            { id: 58, name: 'Lentils', category: 'veggies', weight: 4 },
-            { id: 59, name: 'Pinto beans', category: 'veggies', weight: 4 },
-            { id: 60, name: 'Black beans', category: 'veggies', weight: 4 },
-            { id: 61, name: 'Pickles', category: 'veggies', weight: 4 },
-            { id: 62, name: 'Olives', category: 'veggies', weight: 4 },
-            { id: 63, name: 'Tomato', category: 'fruits', weight: 7 },
-            { id: 64, name: 'Bell Pepper', category: 'fruits', weight: 7 },
-            { id: 65, name: 'Cucumber', category: 'fruits', weight: 7 },
-            { id: 66, name: 'Olives', category: 'fruits', weight: 7 },
-            { id: 67, name: 'Avocado', category: 'fruits', weight: 7 },
-            { id: 68, name: 'Banana', category: 'fruits', weight: 7 },
-            { id: 69, name: 'Pineapple', category: 'fruits', weight: 7 },
-            { id: 70, name: 'Cherry', category: 'fruits', weight: 7 },
-            { id: 71, name: 'Lemon', category: 'fruits', weight: 7 },
-            { id: 72, name: 'Lime', category: 'fruits', weight: 7 },
-            { id: 73, name: 'Orange', category: 'fruits', weight: 7 },
-            { id: 74, name: 'Pear', category: 'fruits', weight: 7 },
-            { id: 75, name: 'Mango', category: 'fruits', weight: 7 },
-            { id: 76, name: 'Jalepeno Pepper', category: 'fruits', weight: 7 },
-            { id: 77, name: 'Strawberry', category: 'fruits', weight: 7 },
-            { id: 78, name: 'Blueberry', category: 'fruits', weight: 7 },
-            { id: 79, name: 'Watermelon', category: 'fruits', weight: 7 },
-            { id: 80, name: 'Apple', category: 'fruits', weight: 7 },
-            { id: 81, name: 'Plum', category: 'fruits', weight: 7 },
-            { id: 82, name: 'Peach', category: 'fruits', weight: 7 },
-            { id: 83, name: 'Grapes', category: 'fruits', weight: 7 },
-            { id: 84, name: 'Coconut', category: 'fruits', weight: 7 },
-            { id: 85, name: 'Cherries', category: 'fruits', weight: 7 },
-            { id: 86, name: 'Raspberry', category: 'fruits', weight: 7 },
-            { id: 87, name: 'Blackberry', category: 'fruits', weight: 7 },
-            { id: 88, name: 'Buttermilk', category: 'dairy', weight: 5 },
-            { id: 89, name: 'Butter', category: 'dairy', weight: 5 },
-            { id: 90, name: 'Sour cream', category: 'dairy', weight: 5 },
-            { id: 91, name: 'Cheddar Cheese', category: 'dairy', weight: 5 },
-            { id: 92, name: 'Cottage Cheese', category: 'dairy', weight: 5 },
-            { id: 93, name: 'Mozzarella', category: 'dairy', weight: 5 },
-            { id: 94, name: 'Milk', category: 'dairy', weight: 5 },
-            { id: 95, name: 'Swiss Cheese', category: 'dairy', weight: 5 },
-            { id: 96, name: 'Cream', category: 'dairy', weight: 5 },
-            { id: 97, name: 'Cheese', category: 'dairy', weight: 5 },
-            { id: 98, name: 'Cream Cheese', category: 'dairy', weight: 5 },
-            { id: 99, name: 'Eggnog', category: 'dairy', weight: 5 },
-            { id: 100, name: 'Soymilk', category: 'dairy', weight: 5 },
-            { id: 101, name: 'Lemon pepper', category: 'spices', weight: 2 },
-            { id: 102, name: 'Chili Powder', category: 'spices', weight: 2 },
-            { id: 103, name: 'Oregano', category: 'spices', weight: 2 },
-            { id: 104, name: 'Cayenne pepper', category: 'spices', weight: 2 },
-            { id: 105, name: 'Paprika', category: 'spices', weight: 2 },
-            { id: 106, name: 'Basil', category: 'spices', weight: 2 },
-            { id: 107, name: 'Red Pepper', category: 'spices', weight: 2 },
-            { id: 108, name: 'Pepper', category: 'spices', weight: 2 },
-            { id: 109, name: 'Salt', category: 'spices', weight: 2 },
-            { id: 110, name: 'Cumin', category: 'spices', weight: 2 },
-            { id: 111, name: 'Thyme', category: 'spices', weight: 2 },
-            { id: 112, name: 'Cinnamon', category: 'spices', weight: 2 },
-            { id: 113, name: 'Ginger', category: 'spices', weight: 2 },
-            { id: 114, name: 'Parsley', category: 'spices', weight: 2 },
-            { id: 115, name: 'Ketchup', category: 'spices', weight: 2 },
-            { id: 116, name: 'Mustard', category: 'spices', weight: 2 },
-            { id: 117, name: 'Sesame', category: 'spices', weight: 2 },
-            { id: 118, name: 'Onion powder', category: 'spices', weight: 2 },
-            { id: 119, name: 'Bay leaf', category: 'spices', weight: 2 },
-            { id: 120, name: 'Sugar', category: 'spices', weight: 2 },
-            { id: 121, name: 'Powdered sugar', category: 'spices', weight: 2 },
-            { id: 121, name: 'Cilantro', category: 'spices', weight: 2 },
-            { id: 122, name: 'Cloves', category: 'spices', weight: 2 },
-            { id: 123, name: 'Cream of tarter', category: 'spices', weight: 2 },
-            { id: 124, name: 'Curry powder', category: 'spices', weight: 2 },
-            { id: 125, name: 'Nutmeg', category: 'spices', weight: 2 },
-            { id: 126, name: 'Rosemary', category: 'spices', weight: 2 },
-            { id: 127, name: 'Vanilla extract', category: 'spices', weight: 2 },
-            { id: 128, name: 'Dill weed', category: 'spices', weight: 2 },
-            { id: 129, name: 'All spice', category: 'spices', weight: 2 },
-            { id: 130, name: 'Poppy seeds', category: 'spices', weight: 2 },
-            { id: 131, name: 'Peanut butter', category: 'spices', weight: 2 },
-            { id: 132, name: 'Jelly', category: 'spices', weight: 2 },
-            { id: 133, name: 'Soy sauce', category: 'spices', weight: 2 },
-            { id: 134, name: 'White Rice', category: 'grains', weight: 15 },
-            { id: 135, name: 'Brown Rice', category: 'grains', weight: 15 },
-            { id: 136, name: 'Wheat', category: 'grains', weight: 15 },
-            { id: 137, name: 'Bread', category: 'grains', weight: 15 },
-            { id: 138, name: 'Rye', category: 'grains', weight: 15 },
-            { id: 139, name: 'Cornmeal', category: 'grains', weight: 15 },
-            { id: 140, name: 'Tortilla', category: 'grains', weight: 15 },
-            { id: 141, name: 'Rice', category: 'grains', weight: 15 },
-            { id: 142, name: 'Lasagna', category: 'grains', weight: 15 },
-            { id: 143, name: 'Linguini', category: 'grains', weight: 15 },
-            { id: 144, name: 'Spaghetti', category: 'grains', weight: 15 },
-            { id: 145, name: 'Fettucini', category: 'grains', weight: 15 },
-            { id: 146, name: 'Ravioli', category: 'grains', weight: 15 },
-            { id: 147, name: 'Baking powder', category: 'grains', weight: 15 },
-            { id: 148, name: 'Flour', category: 'grains', weight: 15 },
-            { id: 149, name: 'Oats', category: 'grains', weight: 15 },
-            { id: 150, name: 'Quinoa', category: 'grains', weight: 15 }
+        this.starches1 = [
+            'University of Toronto BAS in Electrical and Computer Engineering',
+            'This is another test message',
         ];
     }
     HandleArraysService.prototype.getStarches = function () {
-        return this.starches;
-    };
-    HandleArraysService.prototype.getSpices = function () {
-        return this.spices;
+        return this.starches1;
     };
     HandleArraysService.prototype.getDairy = function () {
-        return this.dairy;
+        return this.dairy1;
     };
     HandleArraysService.prototype.getFruits = function () {
-        return this.fruits;
+        return this.fruits1;
     };
     HandleArraysService.prototype.getVeggies = function () {
-        return this.veggies;
+        return this.veggies1;
     };
     HandleArraysService.prototype.getMeats = function () {
-        return this.meats;
-    };
-    HandleArraysService.prototype.getRecipes = function () {
-        return this.therecipes;
+        return this.meats1;
     };
     HandleArraysService = __decorate([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])({
@@ -2285,7 +1807,6 @@ var PantryService = /** @class */ (function () {
         for (var i = 0; i < array.length; i++) {
             this.userPantryIngredientIds.push(Number(array[i]));
         }
-        this.findPantry();
         this.addUserIngredientsToMainArray();
         // console.log(this.ingredient);
         // this.getIngredientPantryFromIds();
@@ -2302,17 +1823,6 @@ var PantryService = /** @class */ (function () {
     //   console.log(this.ingredient);
     //   format
     // };
-    PantryService.prototype.findPantry = function () {
-        var _this = this;
-        this.userPantryIngredients = [];
-        var _loop_1 = function (i) {
-            this_1.userPantryIngredients.push(this_1.handleArrays.pantry.find(function (o) { return o.id === _this.userPantryIngredientIds[i]; }));
-        };
-        var this_1 = this;
-        for (var i = 0; i < this.userPantryIngredientIds.length; i++) {
-            _loop_1(i);
-        }
-    };
     PantryService.prototype.addUserIngredientsToMainArray = function () {
         for (var i = 0; i < this.userPantryIngredients.length; i++) {
             this.ingredient.push(this.userPantryIngredients[i]);
